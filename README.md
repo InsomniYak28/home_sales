@@ -1,6 +1,7 @@
 # home_sales
 
 Wrangling "Big Data" using Google Colab and Amazon AWS. 
+Open and run in Google Colab
 
 
 Other utilities:
